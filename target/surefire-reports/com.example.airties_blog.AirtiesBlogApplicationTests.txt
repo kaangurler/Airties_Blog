@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.airties_blog.AirtiesBlogApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.386 s - in com.example.airties_blog.AirtiesBlogApplicationTests
